@@ -1,0 +1,2 @@
+hooks:
+    - use state: let us give a state to a component
