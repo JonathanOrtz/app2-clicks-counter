@@ -1,2 +1,3 @@
 hooks:
     - use state: let us give a state to a component
+    - revise hooks and their functions
